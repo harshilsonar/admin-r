@@ -1,0 +1,1130 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.main
+{
+    display: flex;
+    width: 100%;
+    z-index: 9999;
+}
+.left
+{
+    height: 350vh;
+    position: static;
+    width: 20%;
+    overflow: auto;
+  
+}
+.right
+{
+    width: 100%;
+
+}
+.lp
+{
+    width: 50%; 
+}
+.ico
+{
+    font-size: 25px;
+}
+.so
+{
+    margin-left: 60px;
+    margin-top: 5px;
+    position: absolute;
+}
+
+.icons
+{
+    margin-left:1000px;
+    /* position: absolute; */
+    width: 20%;
+}
+.op
+{
+    padding-left :300px;
+   
+}
+
+.op .low
+{
+    font-size: 30px;
+   
+   
+}
+.low a
+{
+    text-decoration: none;
+    color:gray;
+
+}
+ 
+ .lower
+{
+    list-style: none;
+     position: absolute;
+     left: 60%;
+     top: 100%;
+     background-color: whitesmoke;
+     height: 100px;
+     width: 10%;
+     display: none;
+
+}
+.lower .submain
+{
+    list-style: none;
+    font-size: 15px;
+}
+.low:hover  .lower
+{
+    display: block;
+
+}
+.submain i
+{
+    font-size: 15px;
+    color: grey;
+    padding-right: 10px;
+}
+
+.op .gear
+{
+    padding-top: 2%;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.gear a
+{
+    text-decoration: none;
+    color:gray;
+}
+.gp{
+    list-style: none;
+    position: absolute;
+    left: 70%;
+    top: 100%;
+    background-color: whitesmoke;
+    height: 150px;
+    width: 15%;
+    display: none;
+
+}
+.gp .submain
+{
+    list-style: none;
+    font-size: 15px;  
+   
+}
+.gear:hover .gp
+{
+    display: block;
+}
+.light a
+{
+    text-decoration: none;
+    color: gray;
+}
+
+.light 
+{
+    font-size: 19px;
+    padding-top: 2%;
+    padding-left: 20px;
+}
+.bell a
+{
+    text-decoration: none;
+    color: gray;
+}
+.bell 
+{
+    font-size: 20px;
+    padding-top: 2%;
+    padding-left: 20px;
+    position: relative;
+}
+
+.three
+{
+    height: 30%;
+    width: 30%;
+  padding-top: 10%;
+  position: absolute;
+}
+ .three sup
+{
+   
+ background-color: #2ca87f;
+ color: aliceblue;
+ border-radius: 25px;
+  
+}
+.avtar
+{
+    height: 40px;
+    width: 10%;
+    margin-top: 5px;
+    margin-left: 20px;
+    border-radius: 25px;
+}
+.avtar img
+{
+    height: 40px;
+    width: 100%;
+    border-radius: 25px;
+}
+
+.ablre
+{
+    height:100%;
+    width: 100%;
+}
+ .ab
+{
+    padding-top: 0%;
+    padding-left: 20%;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(61, 125, 198);
+    margin-left:-35px;
+   
+}
+.ablre sup
+{     position: absolute;
+      margin-top: 15px;
+      font-size: 10px;
+      padding-bottom: 25px;
+      margin-left: -17px;    
+}
+.ab .hi
+{
+    height: 3vh;
+    width: 3%;
+    background-color: #eaf6f2;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 1%;
+    font-size: 10px;
+    padding-left: 15px;
+    padding-top: 5px;
+    color: #2ca87f;
+    border-radius: 25px;
+}
+
+.multiple
+{
+    height:5vh;    
+    width: 100%;
+    border-radius: 5px;
+}
+.multiple a
+{
+    text-decoration: none;
+    color: black;
+}
+.hello
+{
+  padding-left: 20px;  
+}
+.top
+{
+    margin-left: 53%;
+    font-size: 20px;
+}
+.pro
+{
+    margin-left: 5px;
+}
+.pro a
+{
+text-decoration: none;
+}
+.pro i
+{
+    font-size: 10px;
+    color: gray;
+
+}
+.pro i:hover
+{
+color: blue;
+}
+.apex
+{
+    margin-left: 25px;
+    font-size: 15px;
+    color: gray;
+}
+.multiple1
+{
+    height:5vh;    
+    width: 100%;
+    border-radius: 5px;
+}
+.multiple1 a
+{
+    text-decoration: none;
+    color: black;
+}
+.pro1
+{
+    margin-left: 5px;
+}
+.pro1 a
+{
+text-decoration: none;
+}
+.pro1 i
+{
+    font-size: 10px;
+    color: gray;
+
+}
+.pro1 i:hover
+{
+color: blue;
+}
+.multiple-main a
+{
+ text-decoration: none;
+ color: gray;
+}
+.multiple2
+{
+    height:5vh;    
+    width: 100%;
+    border-radius: 5px;
+}
+.multiple2 a
+{
+    text-decoration: none;
+    color: black;
+}
+.pro2
+{
+    margin-left: 5px;
+}
+.pro2 a
+{
+text-decoration: none;
+}
+.pro2 i
+{
+    font-size: 10px;
+    color: gray;
+
+}
+.pro2 i:hover
+{
+color: blue;
+}
+.com i
+{
+    color: gray;
+}
+.com .top2
+{
+    margin-left:90px;
+    color: black;
+    font-size: 20px;
+}
+.tro
+{
+    text-decoration: none;
+ 
+}
+.tro i
+{
+    color: gray;
+}
+.pro3 i
+{
+color: gray;
+font-size: 10px;
+
+}
+.pro3 i:hover
+{
+    color: blue;
+}
+.com1 i
+{
+    color: gray;
+}
+.sub-main1 i:hover
+{
+    color: blue;
+}
+.tree:hover
+{
+background-color: dimgray;
+color: aliceblue;
+}
+.bro
+{
+    height:35vh;
+    width: 85%;
+    background-color: rgb(78, 76, 211);
+  margin-top:45px;
+  border-radius: 25px;  
+  margin-left: 50px;
+}
+.on
+{
+    border: 1px solid aliceblue;
+    width: 40%;
+    height: 40px; 
+    margin-left: 5%;
+    border-radius: 25px;
+    background-color: rgb(78, 76, 211);
+    color: aliceblue;
+    margin-top:5% ;
+}
+.on:hover
+{
+    background-color:whitesmoke;
+    color:rgb(108, 107, 164);
+}
+.vot i
+{
+padding-left: 5px;
+font-size: 25px;
+}
+.vot1 i
+{
+    padding-left: 5px;
+    font-size: 25px;
+}
+.vot1:hover
+{
+    background-color: whitesmoke;
+}
+.grow:hover
+{
+    color: lightgray;
+}
+.good
+{
+    height: 25px;
+    width: 25px;
+    background-color: #2ca87f;
+
+}
+#cop {
+    padding-top:1%;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.lion {
+    border: 1px solid #e7eaee;
+    border-radius: 10px;
+    background-color: white;
+}
+.jay {
+    display: flex;
+    justify-content: space-between;
+}
+#th-1 {
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 550;
+    color: #1d2630;
+    flex-grow: 1;
+}
+.dropdown   
+{
+    position: relative;
+}
+.lion1
+{
+    border: 1px solid #e7eaee;
+    border-radius: 10px;
+    background-color: white;
+}
+.progress {
+    display: flex;
+    height: 1rem;
+    overflow: hidden;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+}
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #0d6efd;
+    transition: width .6s ease;
+}
+#zzz {
+    font-size: 10px;
+}
+#yyy1 {
+    text-decoration: none;
+    color: #5b6b79;
+    font-size: 14px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-weight: 400;
+    display: block;
+}
+#yyy3 {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    padding: 10px 15px;
+    background-color: #2f63ff;
+    border-radius: 20px;
+    font-weight: 400;
+    text-align: center;
+    display: block;
+}
+#yyy2 {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    padding: 10px 15px;
+    background-color: #2f63ff;
+    border-radius: 20px;
+    font-weight: 400;
+    text-align: center;
+    display: block;
+}
+#crop {
+    padding: 2%;
+    background-color: #beceff;
+    border-radius: 10px;
+    color: #1952fd;
+}
+.clock
+{
+  
+        width: 40px;
+        height: 40px;
+        border: 2px solid white;
+        cursor: pointer;
+    
+}
+.clock1
+{
+    width: 40px;
+    height: 40px;
+    border: 2px solid white;
+    cursor: pointer;
+    position: absolute;
+    left: 10%;
+    right: 0%;
+}
+.clock2
+{
+    width: 40px;
+    height: 40px;
+    border: 2px solid white;
+    cursor: pointer;
+    position: absolute;
+    left: 20%;
+    right: 0%;
+}
+.clock3
+{
+    width: 40px;
+    height: 40px;
+    border: 2px solid white;
+    cursor: pointer;
+    position: absolute;
+    left: 30%;
+    right: 0%;
+}
+.clock4
+{
+    width: 40px;
+    height: 40px;
+    border: 2px solid white;
+    cursor: pointer;
+    position: absolute;
+    left: 40%;
+    right: 0%;
+}
+#i-20 {
+    width: 50px;
+    height: 40px;
+    background-color: #1952fd;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 50%;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.classic li
+{
+    list-style: none;
+    padding: 10px 10px;
+    font-weight: 600;
+}
+.classic a
+{
+    color: #131920;
+    font-size: 16px;
+    text-decoration: none;
+    position: relative;
+}
+.oro1 a
+{
+color: gray;
+}
+.oro1 a:hover
+{
+    color: blue;
+}
+.multiple6 a
+{
+text-decoration: none;
+}
+.top6
+{
+padding-left: 30%;
+font-size: 20px;
+font-weight: bold;
+}
+.pro5 i
+{
+    color: gray;
+    font-size: 10px;
+}
+.pro5 i:hover
+{
+color: #0d6efd;
+}
+.multiple7 a
+{
+text-decoration: none;
+}
+.com2 i
+{
+    color: gray;
+
+}
+.top7
+{
+    margin-left: 40%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.pro6 i
+{
+    color: gray;
+    font-size: 10px;
+}
+.pro6 i:hover
+{
+color: #0d6efd;
+}
+.multiple8 a
+{
+text-decoration: none;
+}
+.com3 i
+{
+    color: gray;
+   
+}
+.top8
+{
+    margin-left: 55%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.pro7 i
+{
+    color: gray;
+    font-size: 10px;
+}
+.pro7 i:hover
+{
+color: #0d6efd;
+}
+.multiple9 a
+{
+text-decoration: none;
+}
+.com4 i
+{
+    color: gray;
+   
+}
+.top9
+{
+    margin-left: 35%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.pro7 i
+{
+    color: gray;
+    font-size: 10px;
+}
+.pro7 i:hover
+{
+color: #0d6efd;
+}
+.pro8 i
+{
+    color: gray;
+    font-size: 10px;
+}
+.pro8 i:hover
+{
+color: #0d6efd;
+}
+.bmw
+{
+    height:auto;
+    width:90%;
+    background-color: lightgray;
+    border-radius: 15px;
+} 
+.bmwl
+{
+    margin-left: 10%;
+}
+.bmwl span:hover
+{
+    color: #0d6efd;
+}
+.porsche-ev
+{
+    height: 30px;
+    width: 90%;
+    background-color:#a5bde0 ;
+    border-radius: 5px;
+}
+.porsches a
+{
+text-decoration: none;
+}
+.porsches i
+{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.porsches i:hover
+{
+    color: blue;
+}
+.Audi a
+{
+text-decoration: none;
+}
+.Audi i
+{
+    color: gray;
+    font-size: 17px;
+    margin-left: 2%;
+}
+.Audi i:hover
+{
+    color: blue;
+}
+.Audiev a{
+text-decoration: none;
+}
+.Audiev i
+{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.Audiev i:hover
+{
+    color: #0d6efd;
+}
+.Prime a
+{
+text-decoration: none;
+color: gray;
+}
+.prime i
+{
+    color: gray;
+}
+.kai a
+{
+text-decoration: none;
+}
+.kai i
+{
+    color: gray;
+    font-size: 17px;
+    margin-left: 2%;
+}
+
+.kais a{
+text-decoration: none;
+}
+.kais i
+{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.kais i:hover
+{
+    color: #0d6efd;
+}
+.ray i
+{
+    color: gray;
+    font-size: 17px;
+    margin-left: 2%;
+}
+
+.rays a{
+text-decoration: none;
+}
+.rays i
+{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.rays i:hover
+{
+    color: #0d6efd;
+}
+.max i
+{
+    color: gray;
+    font-size: 17px;
+    margin-left: 2%;
+}
+
+.maxs a{
+text-decoration: none;
+}
+.maxs i
+{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.maxs i:hover
+{
+    color: #0d6efd;
+}
+.tayson i
+{
+    color: gray;
+    font-size: 17px;
+    margin-left: 2%;
+}
+
+.taysons a{
+text-decoration: none;
+}
+.taysons i
+{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.maxs i:hover
+{
+    color: #0d6efd;
+}
+.draw a
+{
+    text-decoration: none;
+    color: gray;
+}
+.draw1 a
+{
+    text-decoration: none;
+    color: gray;
+}
+.draw2 a
+{
+    text-decoration: none;
+    color: gray;
+}
+.draw2 i{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.draw2 i:hover
+{
+    color: blue;
+}
+.draw3  a
+{
+    text-decoration: none;
+    color: gray;
+}
+.draw4 a
+{
+    text-decoration: none;
+    color: gray;
+}
+.draw4 i{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.draw4 i:hover
+{
+    color: blue;
+}
+.draw5 a
+{
+    text-decoration: none;
+    color: gray;
+}
+.draw6 a
+{
+    text-decoration: none;
+    color: gray;
+}
+.draw6 i{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.draw6 i:hover
+{
+    color: blue;
+}
+.draw7 a{
+    text-decoration: none;
+    color: gray;
+}
+.draw8 a
+{
+    text-decoration: none;
+    color: gray;
+}
+.draw8 i{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.draw8 i:hover
+{
+    color: blue;
+}
+.draw9 a{
+    text-decoration: none;
+    color: gray;
+}
+.draw10  a
+{
+    text-decoration: none;
+    color: gray;
+}
+.draw10 i{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.draw10 i:hover
+{
+    color: blue;
+}
+.v1 a
+{
+        text-decoration: none;
+        color: gray;
+}
+.v2 a
+{
+    text-decoration: none;
+    color: gray;
+}
+.v2 i{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.v2 i:hover
+{
+    color: blue;
+}
+.v3 a
+{
+    text-decoration: none;
+    color: gray; 
+}
+.v4 a
+{
+    text-decoration: none;
+    color: gray;
+}
+.v4 i{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.v4 i:hover
+{
+    color: blue;
+}
+.v5 a
+{
+    text-decoration: none;
+    color: gray; 
+}
+.v6 a
+{
+    text-decoration: none;
+    color: gray;
+}
+.v6 i{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.v6 i:hover
+{
+    color: blue;
+}
+.v7 a
+{
+    text-decoration: none;
+    color: gray; 
+}
+.v8 a
+{
+    text-decoration: none;
+    color: gray;
+}
+.v8 i{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.v8 i:hover
+{
+    color: blue;
+}
+.v9 a
+{
+    text-decoration: none;
+    color: gray; 
+}
+.v10 a
+{
+    text-decoration: none;
+    color: gray;
+}
+.v10 i{
+    color: gray;
+    font-size: 10px;
+    margin-left: 2%;
+}
+.v10 i:hover
+{
+    color: blue;
+}
+.v11 a
+{
+    text-decoration: none;
+    color: gray; 
+}
+.img-76 img{
+  
+    transition: 0.7s all;
+}
+.img-76 img:hover
+{
+  
+    transform:scale(1.2) ;
+}
+.sp
+{
+    background-image: url('images/img-profile-card.jpg');
+    background-repeat: no-repeat;
+    margin-top: 10%;
+   margin-left: 1%;
+   height: 200px;
+}
+.user-group img
+{
+   height: 40px;
+   width: 40px;
+   border-radius: 100%;
+   margin-left: -4%;
+   padding-left: 1%;
+   transition: 0.7s all;
+}
+.user-group img:hover
+{
+    transform:scale(1.2) ;
+}
+.pretty
+{
+        border: 1px solid #e7eaee;
+        border-radius: 10px;
+        background-color: white;
+   
+}
+#close {
+    background-color: #f8f9fa;
+}
+#four {
+    color: #4680FF;
+}
+#imp {
+    font-size: 24px;
+    padding: 2%;
+    background-color: #b2cbff;
+    color: #4680ff;
+    border-radius: 10px;
+}
+#Alone
+{
+    font-size: 24px;
+    padding: 2%;
+    background-color: #fcf3e6;
+    color: #4680ff;
+    border-radius: 10px;
+}
+#starboy {
+    color: orange;
+}
+#brake
+{
+    color: #2ca87f;
+}
+#money
+{
+        font-size: 24px;
+        padding: 2%;
+        background-color: #eaf6f2;
+        color: #2ca87f;
+        border-radius: 10px;
+    
+}
+#love
+{
+    
+        font-size: 24px;
+        padding: 2%;
+        background-color: #fce9e9;
+        color: red;
+        border-radius: 10px;
+}
+#respect
+{
+        color: red;
+}
